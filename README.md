@@ -39,4 +39,6 @@
 1. /all-student
 ![all-student-request-improvement](assets/all-student-request/all-student-request-improvement.png)
 2. /highest-gpa
-![highest-gpa-improvement](assets/highest-gpa/highest-gpa-improvement.png>)
+![highest-gpa-improvement](assets/highest-gpa/highest-gpa-improvement.png)
+3. /all-student-name
+![all-student-name-improvement](assets/all-student-name/all-student-name-improvement.png)
